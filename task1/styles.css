@@ -1,0 +1,45 @@
+.center-content{
+    display: flex;
+    justify-content: center;
+}
+.box{
+    background-color: #dcf3f5;
+    height: 450px;
+    width: 800px;
+}
+h1{
+    font-family: 'Square Peg', cursive;
+    font-size: large;
+    font-weight: bolder;
+}
+.card-design{
+    border: 1px solid black;
+    margin: 30px;
+    height: 300px;
+}
+.seat-count{
+    display: flex !important;
+}
+img{
+    height: 240px;
+    width: 200px;
+    border-radius: 50%;
+    padding: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.form-control{
+    background-color: transparent !important;
+    border: none !important;
+}
+.inputfield{
+    position: relative;
+    left: 87px;
+    display: flex !important;
+    gap: 122px;
+}
+.btn{
+    padding: 5px 40px !important;
+}
